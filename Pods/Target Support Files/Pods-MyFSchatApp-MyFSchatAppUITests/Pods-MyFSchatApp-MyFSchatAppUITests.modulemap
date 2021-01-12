@@ -1,0 +1,6 @@
+framework module Pods_MyFSchatApp_MyFSchatAppUITests {
+  umbrella header "Pods-MyFSchatApp-MyFSchatAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
